@@ -1,0 +1,7 @@
+pandas==2.2.3
+scikit-learn==1.9.1
+transformers==5.17.0
+torch==2.6.0
+datasets==3.5.1
+joblib==1.5.0
+streamlit==1.37.1

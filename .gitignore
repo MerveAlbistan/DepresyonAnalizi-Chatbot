@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+model.pkl
+vectorizer.pkl
+*.csv
+bert_sonuc/
+.vscode/
